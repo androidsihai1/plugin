@@ -1,4 +1,4 @@
 rootProject.name='plugin'
 include ':app'
-include ':app:plugin2'
-//include ':plugin3'
+include ':plugin3'
+include ':plugin4'
